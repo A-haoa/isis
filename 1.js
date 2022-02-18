@@ -1,2 +1,2 @@
 a="hello world!";
-alert(a)
+alert(a);
